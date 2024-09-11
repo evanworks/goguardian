@@ -8,7 +8,7 @@ From Chromebook start page: Pretend to login with a Microsoft account and then c
 
 <b>To search the web in safe mode, click this link:</b>
 <a href="https://google.com">Google</a><br/>
-(MAKE SURE TO FOLLOW THE INSTUCTIONS ABOVE!)<br/>
+(MAKE SURE TO FOLLOW THE INSTUCTIONS ABOVE!)<br/><br/>
 <a href="picklehub.com">picklehub alternative</a><br/>
 
 <b>Explanation</b><br/>
