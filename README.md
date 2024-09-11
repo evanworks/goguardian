@@ -3,4 +3,6 @@ Goguardian hacks
 
 made by an east kid if ur wondering
 
-<a href="https://youtube.com">YouTube</a>
+
+To search the web in safe mode, click this link:
+<a href="https://google.com">Google</a>
