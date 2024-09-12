@@ -6,15 +6,11 @@ made by an east kid if ur wondering
 <b>Instructions</b><br/>
 From Chromebook start page: Pretend to login with a Microsoft account and then click more options, click Github, then *forgot password*, then the github logo in the center of the screen. Then navigate to the search bar and type in *evan-w-lee/goguardian*, then click the result and click the link below.
 
-<button onclick='document.getElementById("beans").style.display = "block"'><a href='#'>Click once in special window</a></button>
-
-<div id='beans' style='display: none;'>
 <b>To search the web in safe mode, click this link:</b>
 <a href="https://google.com">Google</a><br/>
 (MAKE SURE TO FOLLOW THE INSTUCTIONS ABOVE!)<br/><br/>
 <a href="https://picklehub.com">picklehub alternative</a><br/>
-</div>
-<br/>
+
 <b>Explanation</b><br/>
 Behind the fast-paced instructions is simply a loophole in a forgotten aspect of Microsoft login. When you attempt to sign into GitHub you have full access to the entire web, all you have to do is find a link to take you to a web browser.
 
