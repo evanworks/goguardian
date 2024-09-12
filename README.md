@@ -8,7 +8,7 @@ From Chromebook start page: Pretend to login with a Microsoft account and then c
 
 <button onclick='document.getElementById("beans").style.display = "block"'><a href='#'>Click once in special window</a></button>
 
-<div id='beans'>
+<div id='beans' style='display: none;'>
 <b>To search the web in safe mode, click this link:</b>
 <a href="https://google.com">Google</a><br/>
 (MAKE SURE TO FOLLOW THE INSTUCTIONS ABOVE!)<br/><br/>
