@@ -14,7 +14,7 @@ From Chromebook start page: Pretend to login with a Microsoft account and then c
 (MAKE SURE TO FOLLOW THE INSTUCTIONS ABOVE!)<br/><br/>
 <a href="https://picklehub.com">picklehub alternative</a><br/>
 </div>
-
+<br/>
 <b>Explanation</b><br/>
 Behind the fast-paced instructions is simply a loophole in a forgotten aspect of Microsoft login. When you attempt to sign into GitHub you have full access to the entire web, all you have to do is find a link to take you to a web browser.
 
