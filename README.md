@@ -8,10 +8,12 @@ From Chromebook start page: Pretend to login with a Microsoft account and then c
 
 <button onclick='document.getElementById("beans").style.display = "block"'><a href='#'>Click once in special window</a></button>
 
+<div id='beans'>
 <b>To search the web in safe mode, click this link:</b>
 <a href="https://google.com">Google</a><br/>
 (MAKE SURE TO FOLLOW THE INSTUCTIONS ABOVE!)<br/><br/>
-<a href="picklehub.com">picklehub alternative</a><br/>
+<a href="https://picklehub.com">picklehub alternative</a><br/>
+</div>
 
 <b>Explanation</b><br/>
 Behind the fast-paced instructions is simply a loophole in a forgotten aspect of Microsoft login. When you attempt to sign into GitHub you have full access to the entire web, all you have to do is find a link to take you to a web browser.
