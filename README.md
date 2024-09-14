@@ -1,8 +1,8 @@
 # goguardian
 Goguardian hacks
 
-made by an east kid if ur wondering<br/>
-<b>Includes</b><br/>
+made by an east kid if ur wondering<br/><br/>
+<b>Includes</b>
 * Bookmarklet
 * Manual Instructions
 <br/>
