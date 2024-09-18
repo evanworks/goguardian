@@ -4,12 +4,12 @@ Goguardian hacks
 made by an east kid if ur wondering<br/><br/>
 <b>Includes</b>
 * Boring tests with <a href="https://github.com/L3-Fantom3">L3-Fantom3</a>, hopefully weekly
-* <a href="https://github.com/evan-w-lee/goguardian/blob/main/bookmarklet.js">Bookmarklet</a>*
+* <a href="https://github.com/evan-w-lee/goguardian/blob/main/bookmarklet.js">Bookmarklet</a><div style="color: red;">*</div>
 * Manual Instructions
 * Unblocked Cookie Clicker
 * Hey look it's the website! <a href="https://evan-w-lee.github.io/goguardian">evan-w-lee/goguardian</a>
 
-**actually doesn't work on school chromebooks rip*
+<div style="color: red;">**actually doesn't work on school chromebooks rip*</div>
 <br/><br/>
 <b>Instructions</b><br/>
 From Chromebook start page: Pretend to login with a Microsoft account and then click more options, click Github, then *forgot password*, then the github logo in the center of the screen. Then navigate to the search bar and type in *evan-w-lee/goguardian*, then click the result and click the link below.
