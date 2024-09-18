@@ -23,7 +23,7 @@ Gler from east found an <a href="https://cyrillbrito.github.io">unblocked cookie
 Behind the fast-paced instructions is simply a loophole in a forgotten aspect of Microsoft login. When you attempt to sign into GitHub you have full access to the entire web, all you have to do is find a link to take you to a web browser.
 
 <b>Updates</b><br/>
-Currently working on web browser in web browser, you can find the test here:
+Currently working on web browser in web browser, you can find the Nuutrino test here:
 <a href="https://replit.com/@Nyuutrino/Bash-Browser-Executable-Selection-Experiment">https://replit.com/@Nyuutrino/Bash-Browser-Executable-Selection-Experiment</a>
 
 <b>Self-protection</b><br/>
