@@ -27,7 +27,7 @@ Behind the fast-paced instructions is simply a loophole in a forgotten aspect of
 Currently working on web browser in web browser, you can find the Nuutrino test here:
 <a href="https://replit.com/@Nyuutrino/Bash-Browser-Executable-Selection-Experiment">replit.com/@Nyuutrino/Bash-Browser-Executable-Selection-Experiment</a><br/>
 Also currently porting Polytrack onto my personal website:
-<a href="https://evan-w-lee.github.io">/evan-w-lee.github.io</a>
+<a href="https://evan-w-lee.github.io">evan-w-lee.github.io</a>
 
 <b>Self-protection</b><br/>
 This isn't nefarious (trust me) just proof of concept. Anyone can use this if they like but I'm not going to so bye
