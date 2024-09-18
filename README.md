@@ -6,6 +6,7 @@ made by an east kid if ur wondering<br/><br/>
 * Boring tests with L3-Fantom3, hopefully weekly
 * Bookmarklet*
 * Manual Instructions
+* Unblocked Cookie Clicker
 
 **actually doesn't work on school chromebooks rip*
 <br/><br/>
@@ -15,8 +16,8 @@ From Chromebook start page: Pretend to login with a Microsoft account and then c
 <b>To search the web in safe mode, click this link:</b>
 <a href="https://google.com">Google</a><br/>
 (MAKE SURE TO FOLLOW THE INSTUCTIONS ABOVE!)<br/><br/>
-<a href="https://picklehub.com">picklehub alternative</a><br/>
-<a href="https://cyrillbrito.github.io">Gler from east found an unblocked cookie clicker</a><br/>
+<a href="https://picklehub.com">picklehub alternative</a><br/><br/>
+Gler from east found an<a href="https://cyrillbrito.github.io">unblocked cookie clicker</a><br/>
 <br/>
 <b>Explanation</b><br/>
 Behind the fast-paced instructions is simply a loophole in a forgotten aspect of Microsoft login. When you attempt to sign into GitHub you have full access to the entire web, all you have to do is find a link to take you to a web browser.
