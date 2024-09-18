@@ -3,7 +3,7 @@ Goguardian hacks
 
 made by an east kid if ur wondering<br/><br/>
 <b>Includes</b>
-* Boring tests with L3-Fantom3, hopefully weekly
+* Boring tests with <a href="https://github.com/L3-Fantom3">L3-Fantom3</a>, hopefully weekly
 * Bookmarklet*
 * Manual Instructions
 * Unblocked Cookie Clicker
