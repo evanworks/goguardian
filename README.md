@@ -17,7 +17,7 @@ From Chromebook start page: Pretend to login with a Microsoft account and then c
 <b>To search the web in safe mode, click this link:</b>
 <a href="https://google.com">Google</a><br/>
 (MAKE SURE TO FOLLOW THE INSTUCTIONS ABOVE!)<br/><br/>
-<a href="https://picklehub.com">picklehub alternative</a><br/><br/>
+<a href="https://valow.gq">picklehub alternative</a><br/><br/>
 Gler from east found an <a href="https://cyrillbrito.github.io/cookieclicker/">unblocked cookie clicker</a><br/>
 <br/>
 <b>Explanation</b><br/>
