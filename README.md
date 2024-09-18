@@ -7,6 +7,7 @@ made by an east kid if ur wondering<br/><br/>
 * Bookmarklet*
 * Manual Instructions
 * Unblocked Cookie Clicker
+* Hey look it's the website! <a href="evan-w-lee.github.io/goguardian">evan-w-lee/goguardian</a>
 
 **actually doesn't work on school chromebooks rip*
 <br/><br/>
