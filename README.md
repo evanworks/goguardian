@@ -5,6 +5,7 @@ made by an east kid if ur wondering<br/><br/>
 <b>Includes</b>
 * Boring tests with <a href="https://github.com/L3-Fantom3">L3-Fantom3</a>, hopefully weekly
 * <a href="https://github.com/evan-w-lee/goguardian/blob/main/bookmarklet.js">Bookmarklet</a><span style="color: red;">*</span>
+* Auroria iFrame tests
 * Manual Instructions
 * Unblocked Cookie Clicker
 * Hey look it's the website! <a href="https://evan-w-lee.github.io/goguardian">evan-w-lee/goguardian</a>
