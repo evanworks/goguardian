@@ -8,7 +8,7 @@ made by an east kid if ur wondering<br/><br/>
 * Auroria iFrame tests (coming soon!)
 * Manual Instructions
 * Unblocked Cookie Clicker
-* Hey look it's the website! <a href="https://evan-w-lee.github.io/goguardian">evan-w-lee/goguardian</a>
+* Hey look it's the website! <a href="https://evanworks.github.io/goguardian">evanworks/goguardian</a>
 
 <div style="color: red;"><i>*bookmarklets actually don't work on school chromebooks rip</i></div>
 <br/>
